@@ -62,13 +62,13 @@ li {
 
   margin: 0 auto;
 
-  color:rgb(255, 255 , 255)
+  color:rgb(255, 255)
 
 }
 
 .top-wrapper {
 
-  padding: 10px 10px 0;
+  padding: 150px 150px 0;
 
   background-image: url(https://github.com/Ilyasagibran/ilyasawedding/blob/main/tugas%20wedding.jpg?raw=true);
 
@@ -116,7 +116,7 @@ li {
 
 .signup {
 
-  background-color: #000;
+  background-color: #ff4563;
 
 }
 
